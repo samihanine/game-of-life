@@ -12,7 +12,7 @@ var simulation = {
   taille : 1, // 1 à 25
   w : 0,
   h : 0,
-  vitesse : 1, // 1 = 10mm | 100 = 1sec
+  vitesse : 5, // 1 = 10mm | 100 = 1sec
   mode :  true, // vide | aléatoire
   quad : true, // quadrillage
 
