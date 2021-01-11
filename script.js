@@ -9,10 +9,10 @@ window.onload = create;
 // population : xx       quadrillage [o]     |    aléatoire [o]          [Reset]
 
 var simulation = {
-  taille : 1, // 1 à 25
+  taille : 5, // 1 à 25
   w : 0,
   h : 0,
-  vitesse : 5, // 1 = 10mm | 100 = 1sec
+  vitesse : 1, // 1 = 10mm | 100 = 1sec
   mode :  true, // vide | aléatoire
   quad : true, // quadrillage
 
